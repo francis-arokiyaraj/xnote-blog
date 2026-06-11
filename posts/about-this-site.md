@@ -3,9 +3,10 @@ title: about this site
 slug: about-this-site
 description: 
 tags: []
-publishedAt: 1780377215957
+publishedAt: 1781177696908
 ogImage: https://raw.githubusercontent.com/francis-arokiyaraj/xnote-blog/main/og/about-this-site.png
 ---
+
 
 # about this site
 
